@@ -19,3 +19,4 @@ if __name__ = '__main__':
     p1 = multiprocessing.Process(name='Worcer 1' target=some_func_1)
 
 
+
